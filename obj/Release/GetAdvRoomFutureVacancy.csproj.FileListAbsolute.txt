@@ -1,0 +1,8 @@
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\bin\Release\GetAdvRoomFutureVacancy.exe.config
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\bin\Release\GetAdvRoomFutureVacancy.exe
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\bin\Release\GetAdvRoomFutureVacancy.pdb
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\bin\Release\Newtonsoft.Json.dll
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\bin\Release\Newtonsoft.Json.xml
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\obj\Release\GetAdvRoomFutureVacancy.csprojResolveAssemblyReference.cache
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\obj\Release\GetAdvRoomFutureVacancy.exe
+C:\Users\CDEV4\Desktop\manhattan\MH_ADV_FUTURE_ROOM_VACANCY\GetAdvRoomFutureVacancy\GetAdvRoomFutureVacancy\obj\Release\GetAdvRoomFutureVacancy.pdb
